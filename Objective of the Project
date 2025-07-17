@@ -1,0 +1,41 @@
+# 📚 Maths The Fun Way
+
+An interactive and user-friendly maths tutorial website designed to make learning enjoyable and effective for students from Year 1 to Year 12.
+
+---
+
+## 🎯 Project Objectives
+
+- ✅ Provide **free maths lessons** for Year 1 to Year 12 students.
+- ✅ Offer an **engaging user interface** using only HTML and CSS.
+- ✅ Support both **self-paced learning** and **private tutoring options**.
+- ✅ Make the website **accessible on laptops, tablets, and smartphones**.
+- ✅ Highlight key features like:
+  - Teacher availability
+  - Money-back guarantee
+  - Fun, game-based learning
+- ✅ Build a solid structure for future enhancements with JavaScript or backend logic.
+
+---
+
+## 🚀 Features
+
+- 🏠 Clean homepage with navigation menu
+- 🔍 Simple search box to look up topics
+- 🎓 Free lesson links categorized by academic year
+- 🤝 Private tutor and sign-up options
+- 📱 Fully responsive layout (mobile-friendly)
+- ✅ Benefits section to build user trust
+
+---
+
+## 💻 Technologies Used
+
+- **HTML5** – for structure
+- **CSS3** – for styling and layout
+- *(No JavaScript or backend used in this version)*
+
+---
+
+
+
